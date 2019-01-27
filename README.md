@@ -1,4 +1,6 @@
 # NeuralNetwork
+
+. Neural network implementation and usage [link](nerural_mlp_project.ipynb)
  
 ### Used datasets 
  - [Iris Plants Database](https://archive.ics.uci.edu/ml/datasets/iris)
