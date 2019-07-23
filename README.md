@@ -1,5 +1,7 @@
 # NeuralNetwork
 
+Artificial Neural Network implementation from scratch with python.
+
 - Neural network implementation and usage described in jupyter notebook file. [link](nerural_mlp_project.ipynb)
  
 ### Used datasets 
