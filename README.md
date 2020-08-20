@@ -2,7 +2,7 @@
 
 Artificial Neural Network implementation from scratch with python.
 
-- Neural network implementation and usage described in jupyter notebook file. [link](nerural_mlp_project.html)
+- Neural network implementation and usage described in jupyter notebook file. [link](nerural_mlp_project.ipynb)
  
 ### Used datasets 
  - [Iris Plants Database](https://archive.ics.uci.edu/ml/datasets/iris)
